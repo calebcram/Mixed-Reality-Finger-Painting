@@ -1,5 +1,5 @@
 # Mixed Reality Finger Painting 
- Mixed Reality Finger Painting 
+ Interactive finger painting with HoloLens 2 using MRTK
  
  [Video Of Functionallity](https://youtu.be/fSjC2L214-M)
  
